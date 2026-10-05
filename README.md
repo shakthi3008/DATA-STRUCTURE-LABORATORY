@@ -1,2 +1,1 @@
-# DATA-STRUCTURE-LABORATORY
-SHAKTHI ASWIN
+# data-structure
